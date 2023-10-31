@@ -1,8 +1,12 @@
+
 * {
     margin: 0;
     box-sizing: border-box;
 
-    font-family: monospace;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Poltawski Nowy', serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 body {
@@ -18,4 +22,11 @@ body {
     color: whitesmoke;
     margin: 1rem;
     font-size: 3rem;
+}
+
+#score{
+    margin: 1.2rem;
+    font-size: 2rem;
+    text-align: center;
+    color: whitesmoke;
 }
